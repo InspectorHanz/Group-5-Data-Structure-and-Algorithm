@@ -42,6 +42,7 @@ public class LibraryManagementSystem {
                     break;
 
                 case 7:
+		    System.out.println("Thank You For Using Our Library" );
                     continueLoop = false;
                     ui.closeScanner();
                     break;
